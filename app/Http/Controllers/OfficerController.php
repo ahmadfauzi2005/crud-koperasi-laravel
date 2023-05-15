@@ -58,7 +58,7 @@ class OfficerController extends Controller
             ]);
            //redirect to index
         return redirect()->route('officer.index')->with(['success' => 'Data Berhasil Disimpan!']);
-    }                           
+    }
 
     /**
      * Display the specified resource.
