@@ -4,7 +4,7 @@
                             {{\Session::get('message')}}
                         </div>
                     @endif
-
+{{-- menambahkan notif alert login --}}
 
 <!DOCTYPE html>
 <html lang="en">
